@@ -30,4 +30,4 @@ describe('AppComponent', () => {
       'base-project app is running!'
     );
   });
-});
+})

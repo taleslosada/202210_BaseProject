@@ -1,3 +1,11 @@
 * [lang^=en] {
   color: green;
 }
+
+img {
+  width: 521px;
+  height: 296px;
+  left: 244px;
+  top: 90px;
+  text-align: center;
+}
